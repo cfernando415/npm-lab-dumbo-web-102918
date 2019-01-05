@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-dumbo-web-102918",
+  "version": "1.0.0",
+  "description": "lab 1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfernando415/npm-lab-dumbo-web-102918.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfernando415/npm-lab-dumbo-web-102918/issues"
+  },
+  "homepage": "https://github.com/cfernando415/npm-lab-dumbo-web-102918#readme"
+}
